@@ -1,4 +1,11 @@
 ```math
+\ce{&#x5Cunicode{ms}[fontfamily="monospace; pointer-events: none;"]{x0000}$}{}
+```
+```math
+\ce{&#x5CmmlToken{ms}[fontfamily="monospace; pointer-events: none;"]{x0000}$}{}
+```
+
+```math
 \ce{&#x5Cunicode{ms}[fontfamily="monospace; pointer-events: none; position: fixed; top: 0"]{x0000}$}{}
 ```
 ```math 
