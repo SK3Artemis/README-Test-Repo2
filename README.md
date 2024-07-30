@@ -1,2 +1,2 @@
 ```math 
-\ce{&#x5Cnewcommand{ms}[]{x0000}$}{}
+\ce{&#x5Cnewenvironment{ms}[]{x0000}$}{}
