@@ -1,2 +1,2 @@
 ```math 
-\ce{&#x5Cnewenvironment{ms}[]{x0000}$}{}
+\ce{&#x5Cupgamma{ms}[]{x0000}$}{}
