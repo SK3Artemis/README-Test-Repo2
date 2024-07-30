@@ -1,2 +1,2 @@
 ```math 
-\ce{&#x5Cmod{ms}[]{x0000}$}{}
+\ce{&#x5Cmultimap{ms}[]{x0000}$}{}
