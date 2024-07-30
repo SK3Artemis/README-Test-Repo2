@@ -1,2 +1,5 @@
 ```math 
-\ce{&#x5Cupgamma{ms}[]{x0000}$}{}
+\ce{&#x5CmmlToken{ms}[]{x0000}$}{}
+```
+```math 
+\ce{&#x5Cunicode{ms}[]{x0000}$}{}
