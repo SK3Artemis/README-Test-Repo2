@@ -3,6 +3,3 @@
 ```
 ```math 
 \ce{&#x5Cunicode{ms}[]{x0000}$}{}
-```
-```math 
-\ce{&#x5C#{ms}[]{x0000}$}{}
